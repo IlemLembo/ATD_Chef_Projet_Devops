@@ -1,5 +1,8 @@
 # ATD_Chef_Projet_Devops
-# [Nom du projet] — Chaîne CI/CD et transformation DevOps
+# Industrialisation et sécurisation des déploiements dune plateforme nationale — 
+---
+Auteur : LEMBO Ilem I. Nelson Jr
+Chaîne CI/CD et transformation DevOps
  
 ## Contexte
  
