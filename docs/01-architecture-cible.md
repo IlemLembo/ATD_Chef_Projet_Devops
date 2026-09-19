@@ -112,7 +112,7 @@ flowchart TB
     Alertes --> Astreinte[Équipe d'astreinte]
 ```
  
-- Métriques suivies en priorité : taux d'erreur applicatif et latence perçue par les usager, plutôt que des seuils machine isolés (charge CPU, mémoire) qui ne reflètent pas directement le service rendu.
+- Métriques suivies en priorité seront le taux d'erreur applicatif et latence perçue par les usager, plutôt que des seuils machine isolés (charge CPU, mémoire) qui ne reflètent pas directement le service rendu.
 - Logs centralisés et consultables par les équipes de développement, condition pour diagnostiquer sans dépendre d'une intervention manuelle sur le serveur.
 - Fenêtre de surveillance définie après chaque déploiement, pendant laquelle le rollback automatique reste armé.
 ---
